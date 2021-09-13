@@ -13,13 +13,21 @@ This system is convenient to all the users as we provide most of the features of
 ➼ **FUNCTIONALITIES**
 
 •	start() – To start the phonebook application by prompting the user to enter the first entry into the phonebook.
+
 •	insert() – Insert an entry into the phonebook.
+
 •	search() – Search a record from your phonebook.
+
 •	search_by_char() – Search a record from your phonebook by character.
+
 •	update() – Update an entry in your phonebook.
+
 •	display() – Display all the records in your phonebook.
+
 •	sortList() – Sort all the phonebook records and display it in alphabetical order.
+
 •	delete_data() – Delete a record from your phonebook. 
+
 •	display_rev() – Display all records of your phonebook in reverse oreder i.e in the order of the last inserted record to the first one.
 
 
